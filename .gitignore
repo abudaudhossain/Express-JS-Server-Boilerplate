@@ -1,0 +1,4 @@
+node_modules
+.env
+storages/*
+node.txt
